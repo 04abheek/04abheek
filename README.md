@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=04abheek&label=Profile%20views&color=0e75b6&style=flat" alt="04abheek" /> </p>
 
-<p align="left"> <a href="https://twitter.com/r_u_a_diplomat" target="blank"><img src="https://img.shields.io/twitter/follow/r_u_a_diplomat?logo=twitter&style=for-the-badge" alt="r_u_a_diplomat" /></a><a href="abheek.shah@techie.com" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ftpd%2Flogos%2F46d3675f000064000500b078%2F0x0.png&f=1&nofb=1&ipt=c0cbbf173061c46c54d1aa1d11b572374c654d5e91fc34ef684531766281e455&ipo=images" alt="Mail.com" width="40" height="40" /></a></p>
+<p align="left"> <a href="https://twitter.com/r_u_a_diplomat" target="blank"><img src="https://img.shields.io/twitter/follow/r_u_a_diplomat?logo=twitter&style=for-the-badge" alt="r_u_a_diplomat" /></a></p>
 
 - 🌱 I’m currently learning **Few Diff Software languages**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/r_u_a_diplomat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_u_a_diplomat" height="30" width="40" /></a>
+<a href="https://twitter.com/r_u_a_diplomat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_u_a_diplomat" height="30" width="40" /><a href="abheek.shah@techie.com" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ftpd%2Flogos%2F46d3675f000064000500b078%2F0x0.png&f=1&nofb=1&ipt=c0cbbf173061c46c54d1aa1d11b572374c654d5e91fc34ef684531766281e455&ipo=images" alt="Mail.com" width="40" height="40" /></a></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
