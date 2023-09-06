@@ -12,7 +12,11 @@
 - 📫 How to reach me **abheek.shah@techie.com**
 
 - ⚡ Fun fact **I am a Felinetrovert. I am not confident about my skills related to software languages**
-https://img.shields.io/badge/still-learning-green
+
+<p align="center">
+  <a href="https://img.shields.io/badge/Still-Learning-green"><img alt="" src="" /></a>
+  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
