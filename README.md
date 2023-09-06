@@ -14,8 +14,9 @@
 - ⚡ Fun fact **I am a Felinetrovert. I am not confident about my skills related to software languages**
 
 <p align="center">
-  <a href="https://img.shields.io/badge/Still-Learning-green"><img alt="Still-Learning"/></a>
-  
+  <a href="https://img.shields.io/badge/Still-Learning-green"><img alt="Still-Learning" src="https://img.shields.io/badge/Still-Learning-green"/></a>
+  <a href=""><img alt="" src="" /></a>
+  <a href=""><img alt="" src="" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
