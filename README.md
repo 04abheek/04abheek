@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/r_u_a_diplomat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_u_a_diplomat" height="30" width="40" /></a><a href="abheek.shah@techie.com" target="blank"><img align="center" src="https://icons8.com/icon/gFJQPhB6qokP/letter" alt="Abheek" height="30" width="40"/></a>
+<a href="https://twitter.com/r_u_a_diplomat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_u_a_diplomat" height="30" width="40" /></a><a href="abheek.shah@techie.com" target="blank"><img align="center" src="https://icons8.com/icon/MFd4aKzItnZK/envelope" alt="Abheek" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
