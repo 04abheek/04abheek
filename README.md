@@ -19,7 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/r_u_a_diplomat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_u_a_diplomat" height="30" width="40" /></a><a href="abheek.shah@techie.com" target="blank"><img align="center" src="https://icons8.com/icon/MFd4aKzItnZK/envelope" alt="Abheek" height="30" width="40"/></a>
+<a href="https://twitter.com/r_u_a_diplomat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_u_a_diplomat" height="30" width="40" /></a><a href="abheek.shah@techie.com" target="blank"><img align="center" src="<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 24 24" width="512" height="512"><path d="M2,21H20v2H0V7c0-1.3,.84-2.4,2-2.82V21ZM24,4v15H4V4c0-1.65,1.35-3,3-3h14c1.65,0,3,1.35,3,3ZM6.2,3.44l5.68,5.68c1.17,1.17,3.07,1.17,4.24,0l5.68-5.68c-.18-.26-.47-.44-.8-.44H7c-.34,0-.62,.18-.8,.44Zm15.8,13.56V6.07l-4.46,4.46c-.97,.97-2.26,1.46-3.54,1.46s-2.56-.49-3.54-1.46L6,6.07v10.93H22Z"/></svg>" alt="Abheek" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
